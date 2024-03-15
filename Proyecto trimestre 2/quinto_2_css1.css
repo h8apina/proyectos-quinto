@@ -1,0 +1,26 @@
+body  {  
+		color: white;
+		font-size: 30px;
+		text-align: center;
+		border-style: solid;
+		border-width: 10px;
+		background-image: url("fondo.png");
+		background-color: blue;
+		background-size: cover;
+		border-radius: 20px;
+		
+} 
+img { 
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+	border-radius: 20px;
+	
+} 
+h1 { 
+	border-style: solid;
+	color:  red;
+	border-width: 10px;
+	border-color: white;
+	border-radius: 20px;
+}
