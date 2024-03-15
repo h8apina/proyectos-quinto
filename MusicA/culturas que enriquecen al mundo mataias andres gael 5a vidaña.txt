@@ -1,0 +1,30 @@
+
+<html>
+<head>
+    <link rel="stylesheet" href="quinto_2_css_1.css" />
+    <title> geografia
+    </title>
+</head>
+<body>
+   
+   <h1> culturas que enriquecen al mundo </h1>
+   <h3> trabajo realizado por gael careaga, matias vejar, andres barrantes y vicente vidaña </h3>
+   <p>es un trabajo de investigacion de temas diversos de historia </p>
+   <p>Hay distintas culturas en el mundo pero estas culturas se caracterizan por algo ya sea por el idioma,religion,forma de vestir,entre otras muchas caracteristicas.
+tambien  otras caracteristicas pueden ser la forma de vivir,el lugar donde se vive,la forma de enseñar,etc.
+
+ 
+
+
+Cada cutura tiene constumbres,un ejemplo son algunas culturas de mexico que celebran el dia de muertos,el dia de la candelaria,entre otros dias que se hacen llamar constumbres.
+<p/>
+   
+   <img src="historia.jpg" width=500/>    <br/>
+   <a href=https://www.youtube.com click aqui para ir a youtube </a>  <br/>
+   <a href=https://www.youtube.com <img src="youtube.png" widht=100 /> </a>  <br/>
+   <button> no le des click </button> <br/>
+   
+   </body>
+   </html>
+   
+   

@@ -1,0 +1,36 @@
+
+<html>
+<head>
+    <link rel="stylesheet" href="quinto_2_css_1.css" />
+    <title> geografia
+    </title>
+</head>
+<body>
+   
+   <h1>la gente que viene y va </h1>
+   <h3> trabajo realizado por gael careaga, matias vejar, andres barrantes y vicente vidaña </h3>
+   <p>es un trabajo de investigacion de temas diversos de historia </p>
+   <p>LA GENTE QUE VIENE Y VA
+HAY PERSONAS QUE BUSCAN LA MIGRACION ,EN BUSCA DE UNA MEJOR VIDA. HAY DISTINTOS TIPOS DE MIGRACIO QUE SON: 
+MIGRACION EXTERNA: CAMBIO DE VIVIENDA DE VARIAS PERSONAS ENTRE DISTINTOS PAISES. ESTE PUEDE SER TEMPORAL O PERMANENTE.
+
+
+
+
+
+MIGRACION INTERNA: CAMBIO DE VIVIENDA DENTRO DE UN MISMO PAIS PUEDE SER TEMPORAL O PERMANENTE.
+EMIGRACION: ACCION DE SALIR DE NUESTRO LUGAR DE ORIGEN.  
+INMIGRACION: ACCION DE LLEGAR A LUGAR DEL DESTINO.
+
+
+<p/>
+   
+   <img src="LOL.png" width=500/>    <br/>
+   <a href=https://www.youtube.com click aqui para ir a youtube </a>  <br/>
+   <a href=https://www.youtube.com <img src="youtube.png" widht=100 /> </a>  <br/>
+   <button> no le des click </button> <br/>
+   
+   </body>
+   </html>
+   
+   
